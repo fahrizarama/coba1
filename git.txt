@@ -1,0 +1,8 @@
+https://github.com/pakforlay/Whatsapp-Botz
+
+perintah
+> git clone https://github.com/pakforlay/whatsapp-botz.git
+> cd whatsapp-bot
+> npm install 
+> npm install gify-cli -g
+> npm start
